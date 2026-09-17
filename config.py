@@ -5,7 +5,7 @@ BOT_TOKEN = "7965662511:AAGxCU-xI9sJpfFD5YCBFSl043LEeK9Fb8I"
 
 # শুধু এই ID গুলো কমান্ড দিতে পারবে
 ADMIN_IDS = [
-    8524951580,   # আপনার Telegram ID দিন
+    8524951580,1507852533,  # আপনার Telegram ID দিন
 ]
 
 # ডিফল্ট সেটিংস
