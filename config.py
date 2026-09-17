@@ -1,12 +1,12 @@
 # config.py
 
 # BotFather থেকে নেওয়া টোকেন
-BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"
+BOT_TOKEN = "7965662511:AAGxCU-xI9sJpfFD5YCBFSl043LEeK9Fb8I"
 
 # শুধু এই ID গুলো কমান্ড দিতে পারবে (নিজের Telegram ID দিন)
 # নিজের ID জানতে @userinfobot এ /start দিন
 ADMIN_IDS = [
-    123456789,   # আপনার ID
+    8524951580,   # আপনার ID
     # 987654321, # আরও অ্যাডমিন লাগলে যোগ করুন
 ]
 
